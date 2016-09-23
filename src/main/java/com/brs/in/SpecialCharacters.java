@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class SpecialCharacters {
 	public static void main(String[] args) {
 		char aChar = 'A';

@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class InstanceOfOperatorDemo {
 	public static void main(String[] args) {
 		if (args instanceof String[]) {

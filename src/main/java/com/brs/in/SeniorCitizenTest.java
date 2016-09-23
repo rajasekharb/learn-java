@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class SeniorCitizenTest {
 	public void checkAge(int age) {
 		int SENIOR_CITIZEN_AGE = 60;

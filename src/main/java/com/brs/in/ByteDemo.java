@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class ByteDemo {
 	public static void main(String[] args) {
 		byte b1 = 4;

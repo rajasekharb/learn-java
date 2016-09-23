@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class CorrectUsageOfNaN {
 	public static void main(String[] args) {
 		double x = 0d / 0d;

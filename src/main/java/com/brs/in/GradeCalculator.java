@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class GradeCalculator {
 	public void calculateGrade(double gpa) {
 		if (gpa > 4.5) {

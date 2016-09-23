@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class HolidaysCalculator {
 	public static void main(String[] args) {
 		byte nationalHolidays = Byte.parseByte(args[0]);

@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class CalculateDifference {
 	public static void main(String[] args) {
 		double firstValue = Double.parseDouble(args[0]);

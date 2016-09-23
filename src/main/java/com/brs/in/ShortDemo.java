@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class ShortDemo {
 	public static void main(String[] args) {
 		short mangos = 3;

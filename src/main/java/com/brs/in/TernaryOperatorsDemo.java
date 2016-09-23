@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class TernaryOperatorsDemo {
 	public static void main(String[] args) {
 		int javaCertificationMarks = 75;

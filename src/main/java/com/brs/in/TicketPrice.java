@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class TicketPrice {
 	public void ageCheck(int age) {
 		int INFANT_AGE = 3;

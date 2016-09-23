@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class GuessDataType {
 	public static void main(String[] args) {
 		//write code to convert the value pased in args[0] into a byte

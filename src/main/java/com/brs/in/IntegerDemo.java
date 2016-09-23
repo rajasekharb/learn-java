@@ -1,3 +1,5 @@
+package com.brs.in;
+
 public class IntegerDemo {
 	public static void main(String args[]) {
 		int decimalOne = 1;

@@ -1,5 +1,7 @@
+package com.brs.in;
+
 public class PrintHello {
-	public static void main(String[] args) {
-		System.out.println("Hello, I am learning Java!");
-	}
+    public static void main(String[] args) {
+        System.out.println("Hello, I am learning Java!");
+    }
 }
